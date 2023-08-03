@@ -7,6 +7,6 @@ pip install SPCEj9bbotw
 ```
 
 ## update
-- [x] ininitial condition for flight test
+- [x] Ininitial condition for flight test
 - [ ] Coordinate Transformation for qualisys
-- [ ] calculate residual & stopping criterion
+- [ ] Calculate residual & stopping criterion
