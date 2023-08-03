@@ -1,8 +1,8 @@
 # SPCE_drone
 ---
 ## install
-'''bash
+```bash
 pip install SPCEj9bbotw
-'''
+```
 
 
